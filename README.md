@@ -1,21 +1,3 @@
-# master-colour-trading-workshop
-Premium educational workshop website with registration system
-<!DOCTYPE html>
-<html>
-<head>
-<title>Master Colour Trading Workshop</title>
-</head>
-<body>
-<h1>Master Colour Trading Workshop</h1>
+# Master Colour Trading Workshop
 
-<p>Date: 28 June 2026</p>
-<p>Time: 08:00 PM IST</p>
-<p>Language: Hindi</p>
-<p>Registration Fee: ₹69</p>
-
-<a href="https://forms.gle/gNym3K6sFyNPM1FW6">
-<button>Register Now</button>
-</a>
-
-</body>
-</html>
+Premium educational workshop website with registration system.
